@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm vinaylalam</h1>
 <h3 align="center">A passionate blockchain developer from India</h3>
-<img align ="right" alt="coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdnl.iconscout.com%2Flottie%2Fpremium%2Fthumb%2Fman-coding-on-laptop-4337847-3618984.gif&tbnid=HcUtQM-D93kJfM&vet=12ahUKEwirwtLMp6SAAxXCz6ACHbOkC_QQMygJegUIARCwAg..i&imgrefurl=https%3A%2F%2Ficonscout.com%2Flotties%2Fprogrammer&docid=jMi3lHdfZu0r7M&w=529&h=334&q=coding%20gif&ved=2ahUKEwirwtLMp6SAAxXCz6ACHbOkC_QQMygJegUIARCwAg">
+<img align ="right" alt="coding" width="400" src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaylalam&label=Profile%20views&color=0e75b6&style=flat" alt="vinaylalam" /> </p>
 
